@@ -3,5 +3,5 @@
 This is the code underlying Figure 2C and Supplementary Figure S2 of
 Penalosa-Ruiz et al.
 
-The iPython notebook [predict_regulator.ipynb](predict_regulator.ipynb) contains
-all code to reproduce the figures.
+The Jupyter notebook [predict_regulators.ipynb](predict_regulators.ipynb) contains
+all code to reproduce the data underlying these figures.
